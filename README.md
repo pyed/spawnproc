@@ -1,0 +1,2 @@
+# spawnproc
+start `calc.exe`
